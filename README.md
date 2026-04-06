@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=140&section=header&text=Ice&fontSize=60&fontColor=58a6ff&fontAlignY=65&animation=fadeIn"/>
-
 <br/>
 
 <!-- BADGES -->
