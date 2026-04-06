@@ -52,45 +52,4 @@
          style="display:block;">
     
   </div>
-</div>
 
-<style>
-  @keyframes float {
-    0% { transform: translateX(-50%) translateY(0px); }
-    100% { transform: translateX(-50%) translateY(-6px); }
-  }
-</style>
-
-<script>
-fetch('https://api.lanyard.rest/v1/users/1363847589899931690')
-  .then(res => res.json())
-  .then(data => {
-    const discordStatus = data.data.discord_status; 
-    const activities = data.data.activities; 
-
-    const statusIcons = {
-      online: 'https://cdn.jsdelivr.net/npm/discord-status-icons@1.0.0/online.svg',
-      idle: 'https://cdn.jsdelivr.net/npm/discord-status-icons@1.0.0/idle.svg',
-      dnd: 'https://cdn.jsdelivr.net/npm/discord-status-icons@1.0.0/dnd.svg',
-      offline: 'https://cdn.jsdelivr.net/npm/discord-status-icons@1.0.0/offline.svg'
-    };
-
-    const activityElement = document.getElementById('discord-activity');
-    const activityIcon = document.getElementById('activity-icon');
-
-    activityIcon.src = statusIcons[discordStatus] || statusIcons.offline;
-
-    if (activities && activities.length > 0) {
-      const activity = activities[0];
-
-      activityElement.innerHTML = `<img src="${activityIcon.src}" width="16" style="margin-right:8px;">${activity.name}${activity.details ? ' - '+activity.details : ''}`;
-    } else {
-      activityElement.innerHTML = `<img src="${activityIcon.src}" width="16" style="margin-right:8px;">ไม่ได้ทำอะไรอยู่ตอนนี้`;
-    }
-  })
-  .catch(err => {
-    console.error(err);
-    const activityElement = document.getElementById('discord-activity');
-    activityElement.innerHTML = 'ไม่สามารถโหลดสถานะได้';
-  });
-</script>
