@@ -3,9 +3,6 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=140&section=header&text=Ice&fontSize=60&fontColor=58a6ff&fontAlignY=65&animation=fadeIn"/>
 
-<!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=welcome+to+my+profile+%F0%9F%96%A4;coding+in+the+dark+%F0%9F%8C%99;always+learning+something+new+%F0%9F%94%A5;ice+cold+code+%E2%9D%84%EF%B8%8F"/>
-
 <br/>
 
 <!-- BADGES -->
