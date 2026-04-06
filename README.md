@@ -18,9 +18,7 @@
 
 <hr>
 
-<img src="https://count.getloli.com](https://github.com/abhisheknaiidu/awesome-github-profile-readme/@xxxadsicekubs?name=xxxadsicekubs&theme=booru-touhoulat"/>
-
-<hr>
+<img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=moebooru"/>
 
 <a href="https://discord.com/users/1363847589899931690">
   <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=probably+coding+something..."/>
