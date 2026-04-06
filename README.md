@@ -18,7 +18,7 @@
 
 <hr>
 
-<img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=moebooru"/>
+<img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=rule34"/>
 
 <a href="https://discord.com/users/1363847589899931690">
   <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=probably+coding+something..."/>
