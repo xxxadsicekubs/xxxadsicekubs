@@ -27,7 +27,7 @@
 <hr/>
 
 <!-- TECH STACK -->
-### 🛠 tech stack
+### 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,html,css,react,nodejs,git,github,vscode,linux,docker,discord&theme=dark)](https://skillicons.dev)
 
