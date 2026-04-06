@@ -46,26 +46,10 @@
 <!-- STREAK -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=xxxadsicekubs&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-<br/>
 
-<!-- TROPHIES -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=xxxadsicekubs&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
 
 <!-- ACTIVITY GRAPH -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xxxadsicekubs&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr/>
-
-<!-- SNAKE -->
-### 🐍 contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxadsicekubs/xxxadsicekubs/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxadsicekubs/xxxadsicekubs/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/xxxadsicekubs/xxxadsicekubs/output/github-snake-dark.svg"/>
-</picture>
 
 <hr/>
 
