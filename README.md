@@ -27,8 +27,12 @@
        style="display:block; border-radius:30px; margin-bottom:0;">
 </a>
 
-<!-- Capsule Render ที่เนียนเข้ากับ Discord image -->
-<div style="overflow:hidden; border-radius:30px; margin-top:-10px;">
+<div style="overflow:hidden; border-radius:30px; margin-top:-10px; position:relative;">
   <img width="100%" 
        src="https://capsule-render.vercel.app/api?type=waving&color=0:080d1e,50:0d2137,100:080d1e&height=120&section=footer"/>
+       
+  <div style="position:absolute; bottom:10px; left:20px; color:white; font-weight:bold; font-family:sans-serif; text-shadow:0 0 5px black;">
+    <img src="https://cdn.jsdelivr.net/npm/discord-status-icons@1.0.0/online.svg" width="16" style="vertical-align:middle; margin-right:6px;">
+    กำลังทำอะไรอยู่...
+  </div>
 </div>
