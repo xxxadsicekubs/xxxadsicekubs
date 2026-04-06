@@ -1,8 +1,5 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=xxxadsicekubs&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/xxxadsicekubs?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
-
 ---
 
 [![Twitter](https://img.shields.io/badge/-@xxxadsicekubs-0d1117?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://x.com/xxxadsicekubs)
