@@ -25,10 +25,6 @@
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xxxadsicekubs&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 💬 discord status
 <a href="https://discord.com/users/1363847589899931690">
   <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=light&bg=FFFAFA&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=M%20V%20P%20">
