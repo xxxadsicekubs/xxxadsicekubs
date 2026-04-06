@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://count.getloli.com/@4levy?name=4levy&theme=booru-touhoulat">
+  <img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=booru-touhoulat">
 </div>
 
 ---
