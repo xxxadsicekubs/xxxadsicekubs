@@ -26,6 +26,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=080d1e&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=M%20V%20P">
 </a>
 
+---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=100&section=footer"/>
 
 </div>
