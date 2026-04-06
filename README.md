@@ -46,7 +46,7 @@
 ### 💬 discord status
 
 <a href="https://discord.com/users/1363847589899931690">
-  <img src="https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=ce74ff&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Rest%20in%20peace%20^^">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=light&bg=ce74ff&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Rest%20in%20peace%20^^">
 </a>
 
 <!-- FOOTER -->
