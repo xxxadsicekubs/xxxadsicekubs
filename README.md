@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  <a href="https://discord.com/users/874898422233178142">
+  <a href="https://discord.com/users/1363847589899931690">
     <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=080d1e&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=probably+coding+something...&showDisplayName=true">
   </a>
 </div>
