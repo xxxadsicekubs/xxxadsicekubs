@@ -22,7 +22,6 @@
 
 ---
 
-### 💬 discord status
 <a href="https://discord.com/users/1363847589899931690">
   <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=light&bg=FFFAFA&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=M%20V%20P%20">
 </a>
