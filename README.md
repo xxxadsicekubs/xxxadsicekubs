@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xxxadsicekubs/xxxadsicekubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ice
+### @xxxadsicekubs
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter](https://img.shields.io/badge/-@xxxadsicekubs-0d1117?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://x.com/xxxadsicekubs)
+[![Discord](https://img.shields.io/badge/-@xxxadsicekubs-0d1117?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/1363847589899931690)
+[![YouTube](https://img.shields.io/badge/-@xxxadsicekubs-0d1117?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/@xxxadsicekubs)
+
+<hr>
+
+<img src="https://raw.githubusercontent.com/xxxadsicekubs/stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/xxxadsicekubs/stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img src="https://raw.githubusercontent.com/xxxadsicekubs/stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/xxxadsicekubs/stats/master/generated/languages.svg#gh-light-mode-only"/>
+
+<hr>
+
+<img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=booru-touhoulat"/>
+
+<hr>
+
+<a href="https://discord.com/users/1363847589899931690">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=probably+coding+something..."/>
+</a>
+
+</div>
