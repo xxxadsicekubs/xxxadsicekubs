@@ -21,6 +21,22 @@
        src="https://capsule-render.vercel.app/api?type=waving&color=0:080d1e,50:0d2137,100:080d1e&height=120&section=footer"/>
 </div>
 
+<a href="https://discord.com/users/1363847589899931690" style="display:block; position:relative;">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=080d1e&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=M%20V%20P" 
+       style="display:block; border-radius:30px; margin-bottom:0; width:150px; height:150px;">
+  
+  <span id="discord-status" 
+        style="position:absolute; bottom:10px; left:10px; padding:4px 8px; background:rgba(0,0,0,0.6); color:white; font-size:12px; font-family:sans-serif; border-radius:12px; display:flex; align-items:center;">
+    <img id="status-icon" src="https://cdn.jsdelivr.net/npm/discord-status-icons@1.0.0/online.svg" width="14" style="margin-right:6px;">
+    กำลังโหลด...
+  </span>
+</a>
+
+<div style="overflow:hidden; border-radius:30px; margin-top:-10px;">
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:080d1e,50:0d2137,100:080d1e&height=120&section=footer"/>
+</div>
+
 <script>
   fetch('https://api.lanyard.rest/v1/users/1363847589899931690')
     .then(res => res.json())
@@ -48,6 +64,6 @@
     })
     .catch(err => {
       console.error(err);
-      document.getElementById('discord-status').textContent = '. . . . .';
+      document.getElementById('discord-status').textContent = 'ไม่สามารถโหลดสถานะได้';
     });
 </script>
