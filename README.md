@@ -11,11 +11,6 @@
 
 ---
 
-### 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,html,css,react,nodejs,git,github,vscode,linux,docker,discord&theme=dark)](https://skillicons.dev)
-
----
-
 ### 📊 github stats
 <img src="https://raw.githubusercontent.com/xxxadsicekubs/stats/master/generated/overview.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/xxxadsicekubs/stats/master/generated/overview.svg#gh-light-mode-only"/>
