@@ -16,12 +16,6 @@
 
 ---
 
-<div style="overflow:hidden; border-radius:30px; margin-top:-10px;">
-  <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=0:080d1e,50:0d2137,100:080d1e&height=120&section=footer"/>
-</div>
-
-<a href="https://discord.com/users/1363847589899931690" style="display:block; position:relative;">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=080d1e&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=M%20V%20P" 
-       style="display:block; border-radius:30px; margin-bottom:0; width:150px; height:150px;">
-  </a>
+<a href="https://discord.com/users/1363847589899931690">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=probably+coding+something...&showDisplayName=true"/>
+</a>
