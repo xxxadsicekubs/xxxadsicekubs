@@ -17,6 +17,14 @@
 <img src="https://raw.githubusercontent.com/xxxadsicekubs/stats/master/generated/languages.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/xxxadsicekubs/stats/master/generated/languages.svg#gh-light-mode-only"/>
 
+---
+
+<div align="center">
+  <img src="https://count.getloli.com/@4levy?name=4levy&theme=booru-touhoulat">
+</div>
+
+---
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xxxadsicekubs&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
