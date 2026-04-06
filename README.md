@@ -15,9 +15,9 @@
 <img src="https://raw.githubusercontent.com/xxxadsicekubs/stats/master/generated/languages.svg#gh-light-mode-only"/>
 
 ---
-
-<img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=rule34"/>
-
+<div align="center">
+  <img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=booru-touhoulat">
+</div>
 ---
 
 <div align="center">
