@@ -18,7 +18,7 @@
 
 <hr>
 
-<img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=booru-touhoulat"/>
+<img src="https://count.getloli.com](https://github.com/abhisheknaiidu/awesome-github-profile-readme/@xxxadsicekubs?name=xxxadsicekubs&theme=booru-touhoulat"/>
 
 <hr>
 
