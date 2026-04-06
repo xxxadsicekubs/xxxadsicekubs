@@ -17,5 +17,11 @@
 ---
 
 <a href="https://discord.com/users/1363847589899931690">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=probably+coding+something...&showDisplayName=true"/>
+  <img 
+    src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=1a1b22&animated=true&hideDiscrim=true&borderRadius=24px&idleMessage=probably+coding...&showDisplayName=true&ringColor=7289da&ring=true&showCurrentGame=true" 
+    alt="Discord Lanyard" 
+    style="border-radius:24px; box-shadow: 0 8px 20px rgba(0,0,0,0.5); transition: transform 0.2s;" 
+    onmouseover="this.style.transform='scale(1.05)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
 </a>
