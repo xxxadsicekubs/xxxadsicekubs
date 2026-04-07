@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=hey+there+%F0%9F%91%8B;i'm+xxxadsicekubs;probably+coding+something...;coffee+%E2%98%95+%2B+code+%3D+life)](https://git.io/typing-svg)
-
 <br/>
 
 [![Twitter](https://img.shields.io/badge/-@xxxadsicekubs-0d1117?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://x.com/xxxadsicekubs)
@@ -19,8 +17,6 @@
 
 ---
 
-### 🐍 contribution snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxadsicekubs/xxxadsicekubs/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxadsicekubs/xxxadsicekubs/output/github-snake.svg" />
@@ -29,13 +25,11 @@
 
 ---
 
-### ⏱️ wakatime stats
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xxxadsicekubs&theme=github_dark&layout=compact&langs_count=6)](https://wakatime.com/@xxxadsicekubs)
 
 ---
 
-### 🎵 spotify now playing
 
 [![Spotify](https://novatorem-xxxadsicekubs.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
