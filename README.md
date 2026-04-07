@@ -30,11 +30,6 @@
 
 ---
 
-
-[![Spotify](https://novatorem-xxxadsicekubs.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
----
-
 <img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=booru-touhoulat">
 
 <a href="https://discord.com/users/1363847589899931690">
