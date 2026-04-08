@@ -26,7 +26,7 @@
 ---
 
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xxxadsicekubs&theme=github_dark&layout=compact&langs_count=6)](https://wakatime.com/@xxxadsicekubs)
+[![wakatime](https://wakatime.com/badge/user/xxxadsicekubs.svg)](https://wakatime.com/@xxxadsicekubs)
 
 ---
 
