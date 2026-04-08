@@ -22,7 +22,7 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/2c22ed51-c99e-4223-9c10-e10b2f1330b2.svg)](https://wakatime.com/@xxxadsicekubs)
+[![wakatime](https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/2c22ed51-c99e-4223-9c10-e10b2f1330b2.json&style=for-the-badge)](https://wakatime.com/@xxxadsicekubs)
 
 ---
 <img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=booru-touhoulat">
