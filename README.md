@@ -30,7 +30,7 @@
 
 ---
 
-<img src="https://count.getloli.com/@xxxadsicekubs?name=xxxadsicekubs&theme=booru-touhoulat">
+<img src="https://wakatime.com/badge/user/2c22ed51-c99e-4223-9c10-e10b2f1330b2.svg" alt="wakatime"/>
 
 <a href="https://discord.com/users/1363847589899931690">
   <img src="https://lanyard-profile-readme.vercel.app/api/1363847589899931690?theme=dark&bg=080d1e&animated=true&hideDiscrim=true&hideUsername=true&borderRadius=30px&idleMessage=probably+coding+something...&hideUsername=true">
