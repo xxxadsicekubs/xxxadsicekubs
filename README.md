@@ -26,7 +26,7 @@
 ---
 
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=2c22ed51-c99e-4223-9c10-e10b2f1330b2&theme=github_dark&layout=compact&langs_count=6)](https://wakatime.com/@2c22ed51-c99e-4223-9c10-e10b2f1330b2)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xxxadsicekubs&theme=github_dark&layout=compact&langs_count=6)](https://wakatime.com/@xxxadsicekubs)
 
 ---
 
