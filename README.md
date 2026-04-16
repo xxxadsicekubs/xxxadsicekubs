@@ -17,14 +17,6 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxadsicekubs/xxxadsicekubs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxadsicekubs/xxxadsicekubs/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/xxxadsicekubs/xxxadsicekubs/output/github-snake.svg" />
-</picture>
-
----
-
 [![wakatime](https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/9fdc94e2-5f54-400d-889b-9bc4af134d05.json&style=for-the-badge)](https://wakatime.com/@xxxadsicekubs)
 
 ---
